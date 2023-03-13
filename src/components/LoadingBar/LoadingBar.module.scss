@@ -1,0 +1,12 @@
+.loadingbar{
+width:100%;
+margin: 20px 0;
+height: 20px;
+border-radius:5px;
+background-color:white;
+    &__progress{   
+        width:10%;
+        background-color:rgba(33, 150, 243, 1);
+    }
+}
+
